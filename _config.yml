@@ -3,8 +3,9 @@ plugins:
 remote_theme: "jekyll/minima@1e8a445"
 
 title: Methodology Assignment 4
-baseurl: '/' 
-url: 'https://waleung1231.github.io/DSC180A-Methodology-4' 
+baseurl: '/'
+url: 'https://waleung1231.github.io/DSC180A-Methodology-4'
+repository: waleung1231/DSC180A-Methodology-4
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "node_modules"]
 
 # Fix for ERB template processing issue
